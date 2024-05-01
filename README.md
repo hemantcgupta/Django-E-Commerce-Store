@@ -13,7 +13,7 @@ This project is a simple RESTful API built with Django for managing products and
 ### Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hemantcgupta/django-ecommerce-store.git
+   git clone https://github.com/hemantcgupta/Django-E-Commerce-Store.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -102,6 +102,3 @@ The API will be available at `http://localhost:8000/`.
 
 ## Postman Collection
 A Postman collection with sample requests is included in the root folder of the project.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
