@@ -17,7 +17,7 @@ This project is a simple RESTful API built with Django for managing products and
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd django-ecommerce-store
+   cd Django-E-Commerce-Store
    ```
 3. **Install dependencies using pip:**
    ```bash
