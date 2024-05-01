@@ -15,6 +15,7 @@ class UserProfile(models.Model):
             return None
         
 class Category(models.Model):
+    id = models.BigAutoField(primary_key=True)
     name = models.CharField(max_length=100)
     description = models.TextField()
 
