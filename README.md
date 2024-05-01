@@ -7,8 +7,9 @@ This project is a simple RESTful API built with Django for managing products and
 
 ### Prerequisites
 - Python (3.11.4 or higher)
-- Django (3.0 or higher)
-- Django REST Framework (3.11 or higher)
+- Pip (24.0 or higher)
+- Django (4.0.1 or higher)
+- Django REST Framework (3.14.0 or higher)
 
 ### Installation
 1. **Clone the repository:**
@@ -41,6 +42,15 @@ python manage.py runserver
 ```
 
 The API will be available at `http://localhost:8000/`.
+
+### Deploy and Run Server by Bat Files
+1. **Step 1: Deploy:**
+- **Double-click on RunDeploy.bat to Deploy the project.**
+- **This script will automatically create a virtual environment and install the required packages.**
+2. **Step 2: Start Server:**
+- **Double-click on RunServer.bat to execute the script.**
+- **This script will automatically run migrations and start the Django development server.**
+
 
 ## API Endpoints
 
