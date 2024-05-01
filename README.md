@@ -57,7 +57,7 @@ The API will be available at `http://localhost:8000/`.
 ### Import Postman Collection
 
 **Postman collection file location:**
-- [`E-Commerce-Store.postman_collection.json`](E-Commerce-Store.postman_collection.json) (Located in the root folder of the project)
+- [`./root/E-Commerce-Store.postman_collection.json`](E-Commerce-Store.postman_collection.json) (Located in the root folder of the project)
 
 **Import into Postman:**
 1. Open Postman and navigate to your workspace.
