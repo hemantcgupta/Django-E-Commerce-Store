@@ -54,6 +54,18 @@ The API will be available at `http://localhost:8000/`.
 
 ## API Endpoints
 
+### Import Postman Collection
+
+**Postman collection file location:**
+- [`E-Commerce-Store.postman_collection.json`](E-Commerce-Store.postman_collection.json) (Located in the root folder of the project)
+
+**Import into Postman:**
+1. Open Postman and navigate to your workspace.
+2. Click on the "Import" button.
+3. Select the Postman collection file (`E-Commerce-Store.postman_collection.json`) from your project's root folder and import it into your workspace.
+4. You can now see all the API requests and use them to interact with your Django API.
+
+
 ### Authentication
 - **Register a new user:**
   ```
